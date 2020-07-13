@@ -134,6 +134,7 @@ int main()
     QuanLiSach ql;
     ql.Nhapds();
     cout << "********************" << endl;
+    cout << "********************" << endl;cout << "********************" << endl;
     ql.Xuatds();
     return 0;
 }
