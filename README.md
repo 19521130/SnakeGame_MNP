@@ -2,9 +2,7 @@
 SnakeGame for SS004.K2.7 - MNP Team
 
 Members:
-19521130 Nguyễn Thị Hồng Yến
-19521209 Phan Mai Kiều Anh
-19521422 Mai Hồng Duy
+19521130 Nguyễn Thị Hồng Yến/ 19521209 Phan Mai Kiều Anh/ 19521422 Mai Hồng Duy
 
 Xin chào thầy Toàn,
 Chúng em là sinh viên lớp SS004.K22. Đây chính là không gian làm việc của chúng em theo như yêu cầu của thầy cho đồ án cuối kì.
