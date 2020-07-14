@@ -1,0 +1,24 @@
+class MOITRUONG
+{
+public:
+    Point A[rong][dai];
+    MOITRUONG()
+    {
+        for (int i = 0; i < rong; i++)
+            for (int j = 0; j < dai; j++)
+            {
+                A[i][j].x = i;
+                A[i][j].y = j;
+            }
+    }
+    void Ve()
+    {
+        for (int i = 0; i < rong; i++)
+            for (int j = 0; j < dai; j++)
+            {
+                gotoxy(A[i][j].x, A[i][j].y);
+                if (i == 0 || i == rong - 1 || j == 0 || j == dai - 1)
+                    cout << "X";
+            }   
+    }
+};
