@@ -18,5 +18,7 @@ Sử dụng các phím để di chuyển và ăn thức ăn.
 - D: sang phải.
 - W: lên trên.
 - S: xuống dưới.
+
 Thua cuộc khi rắn của bạn chạm vào tường hoặc tự chạm vào thân.
+
 Thắng cuộc khi thân rắn chiếm hết diện tích của môi trường.
