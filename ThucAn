@@ -1,0 +1,7 @@
+Point ThucAn()
+{
+    Point p;
+    p.x = 1 + rand() % (rong - 2);
+    p.y = 1 + rand() % (dai - 2);
+    return p;
+}
